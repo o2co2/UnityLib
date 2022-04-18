@@ -1,11 +1,4 @@
-/*
- * 
- * Script to use ALT+1 ALT+2 ALT+3 for setting gameview resolution.
- * If shortcut fail (such as 1280x720) you must add it manually in gameview dropdown first.
- * 
- * Author: Wappen
- * 
- */
+
 using System;
 using System.Reflection;
 using UnityEditor;
